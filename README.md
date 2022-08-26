@@ -25,4 +25,4 @@ The train dataset contains 87500 rows and 30 columns and test data contains 3750
 * We considered Logistic Regression as our base model, after that we used decision tree for better performance and also done hyperparameter tuning of decision tree.
 * Than we also used some other algorithms like Random forest Classifier, some feature selection techniques(e.g. SFS,RFE),tried a hand with Probabilistic model(GaussianNB) also,and used stacking classifier.From decision tree we were also able to see features importance.
 * After all this we used Bossting techniques like XGBoost, but boosting techniques didn't show up any performance here.
-* By considering all the results we were able to see that stacking classifier model comes out to be the best one with an F1 Score of 0.56 across all other attempted models
+* By considering all the results we were able to see that stacking classifier model comes out to be the best one with an F1 Score of 0.56 across all other attempted models.
